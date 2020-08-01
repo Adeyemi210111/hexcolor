@@ -1,5 +1,7 @@
-
-      let hex =  [
+//Give me shout out if you are using my code
+//whatsApp https:wa.me/2348022792012
+      
+let hex = [
         {
           "name": "Absolute Zero",
           "hexCode": "#0048BA"
