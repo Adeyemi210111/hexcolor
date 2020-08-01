@@ -3831,7 +3831,6 @@ let hex = [
           "hexCode": "#39A78E"
         }
 ]
-
 let btn = document.getElementById('btn')
 let body = document.getElementById("body");
 let colorName = document.getElementById("colorname");
